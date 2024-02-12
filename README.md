@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Visitor count</h3>
+<div align ="center">
+  
+![:Nuriddin-coder](https://moe-counter.glitch.me/get/@:Nuriddin-coder)
+</div>
+
